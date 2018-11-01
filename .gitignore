@@ -1,0 +1,11 @@
+/dist/
+/django_bay_polls.egg-info/
+/build/
+
+*.pyc
+*~
+*.log
+
+__pycache__
+env
+.idea
