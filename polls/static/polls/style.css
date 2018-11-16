@@ -3,9 +3,33 @@ li a {
 }
 
 body {
-   background: white url("images/background.jpg") no-repeat;
-   margin: -14;
-   padding: 8;
-   font-size: 14px;
+   background: white url("images/background.jpg");
+   margin: 14px;
+   padding: 7px;
+   word-wrap: break-word;
+   font-size: 16px;
    font-family: "Roboto","Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif;
+}
+
+title{
+   text-align: center;
+   text color: black;
+}
+
+h1{
+  color: green;
+  margin: 12px;
+  padding: 5px;
+  font-size: 18px;
+}
+
+.button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
